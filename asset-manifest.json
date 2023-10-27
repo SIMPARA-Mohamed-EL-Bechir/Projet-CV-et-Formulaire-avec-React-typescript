@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-cv-and-formulaire/static/css/main.89ac0a63.css",
-    "main.js": "/react-cv-and-formulaire/static/js/main.b94531b8.js",
-    "static/js/787.28cb0dcd.chunk.js": "/react-cv-and-formulaire/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/react-cv-and-formulaire/index.html",
-    "main.89ac0a63.css.map": "/react-cv-and-formulaire/static/css/main.89ac0a63.css.map",
-    "main.b94531b8.js.map": "/react-cv-and-formulaire/static/js/main.b94531b8.js.map",
-    "787.28cb0dcd.chunk.js.map": "/react-cv-and-formulaire/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/Projet-CV-et-Formulaire-avec-React-typescript/static/css/main.89ac0a63.css",
+    "main.js": "/Projet-CV-et-Formulaire-avec-React-typescript/static/js/main.ae9effce.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Projet-CV-et-Formulaire-avec-React-typescript/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Projet-CV-et-Formulaire-avec-React-typescript/index.html",
+    "main.89ac0a63.css.map": "/Projet-CV-et-Formulaire-avec-React-typescript/static/css/main.89ac0a63.css.map",
+    "main.ae9effce.js.map": "/Projet-CV-et-Formulaire-avec-React-typescript/static/js/main.ae9effce.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Projet-CV-et-Formulaire-avec-React-typescript/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.89ac0a63.css",
-    "static/js/main.b94531b8.js"
+    "static/js/main.ae9effce.js"
   ]
 }
