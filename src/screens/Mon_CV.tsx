@@ -17,7 +17,7 @@ export const Mon_CV = () => {
           <div className="text-left mr-80 bg-amber-600 rounded-b-lg">
           <Formation_Diplome/>
           </div>
-          <div className="text-right mt-5 bg-amber-600 rounded-r-lg">
+          <div className="text-right mt-5 mr-5 bg-amber-600 rounded-r-lg">
           <Competences_Technques/>
           <Competences_Lingustiques/>
           <Loisirs/>
