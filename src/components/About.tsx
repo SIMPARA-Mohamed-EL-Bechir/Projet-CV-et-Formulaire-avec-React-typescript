@@ -4,7 +4,7 @@ export const About = () =>{
     return(
         <div>
             <section className="mb-5 flex justify-end bg-amber-600 rounded-r-lg">
-                <img className="w-20 h-20 rounded-full" src='images/profil.jpg' alt="Profil" />
+                <img className="w-20 h-20 rounded-full" src='public/images/profil.jpg' alt="Profil" />
                 <h2 className=" text-3xl text-blue-800 font-extrabold mr-80 mt-20">SIMPARA Mohamed El Béchir</h2>
                 <div><i>
                 <ul>
